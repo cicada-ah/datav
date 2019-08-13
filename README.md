@@ -75,7 +75,7 @@ src
 
 #### 技术总结
 <div align="center">
-<img src="https://i.loli.net/2019/08/13/SnXO5ZTCG68Uhgt.png" width = "800" height = "500" alt="vue-logo.png" align=center />
+<img src="https://i.loli.net/2019/08/13/SnXO5ZTCG68Uhgt.png" width = "600" height = "340" alt="vue-logo.png" align=center />
 </div>
 
 ---
