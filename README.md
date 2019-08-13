@@ -142,29 +142,37 @@ server {
 ## 部分功能展示
 * **enter入口页面**
 ***
-![enter入口页面.png](https://s2.ax1x.com/2019/08/14/mPdwzq.jpg)
+<div align="center">
+<img src="https://s2.ax1x.com/2019/08/14/mPdwzq.jpg" width = "446" height = "251" alt="vue-logo.png" align=center />
+</div>
 </br>
 
 * **总览分析**
-***
 旅客数据流入方式及景区合理数据分析。
-![总览.png](https://s2.ax1x.com/2019/08/14/mPdOfA.png)
+***
+<div align="center">
+<img src="https://s2.ax1x.com/2019/08/14/mPdOfA.png" width = "446" height = "251" alt="vue-logo.png" align=center />
+</div>
 </br>
 </br>
 </br>
 
 * **数据详情页**
-***
 旅客出入境、年龄/性别占比、区域流量热力图等多种数据展示方式
-![banner.gif](https://s2.ax1x.com/2019/08/13/mPNrLD.png)
+***
+<div align="center">
+<img src="https://s2.ax1x.com/2019/08/13/mPNrLD.png" width = "446" height = "251" alt="vue-logo.png" align=center />
+</div>
 </br>
 </br>
 </br>
 
 * **三项热度排名**
-***
 通过三种热度排行榜，侧面展示西安旅客动向(数据来源高德平台)。
-![nav.gif](https://s2.ax1x.com/2019/08/13/mPNzOU.png)
+***
+<div align="center">
+<img src="https://s2.ax1x.com/2019/08/13/mPNzOU.png" width = "446" height = "251" alt="vue-logo.png" align=center />
+</div>
 </br>
 ***
 
