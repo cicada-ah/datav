@@ -84,13 +84,13 @@ src
 
 #### 页面功能模块
 <div align="center">
-<img src="https://imgchr.com/i/mP8bnJ" width = "800" height = "500" alt="vue-logo.png" align=center />
+<img src="https://s2.ax1x.com/2019/08/14/mPdKJA.png" width = "600" height = "280" alt="vue-logo.png" align=center />
 </div>
 
 #### 样式色彩设计
 对于本系统而言，更适合使用偏蓝色系的色彩设计，对于标题、坐标轴 描述、副标题等都有不同的大小和颜色，但总体色系基调一直，保证页面可视化的协调性。
 <div align="center">
-<img src="https://imgchr.com/i/mP87X4" width = "800" height = "500" alt="vue-logo.png" align=center />
+<img src="https://s2.ax1x.com/2019/08/14/mPd8L8.png" width = "600" height = "220" alt="vue-logo.png" align=center />
 </div>
 
 ## 数据可视化开发流程
@@ -99,7 +99,7 @@ src
 过程是`曲折`的...
 需要不断的recode,Repeated design...
 <div align="center">
-<img src="https://imgchr.com/i/mP8XA1" width = "800" height = "500" alt="vue-logo.png" align=center />
+<img src="https://s2.ax1x.com/2019/08/14/mPdYdg.png" width = "600" height = "260" alt="vue-logo.png" align=center />
 </div>
 
 
@@ -137,33 +137,36 @@ server {
 }
 ```
 
+***
+
 ## 部分功能展示
 * **enter入口页面**
 ***
-![选区_007.png](https://imgchr.com/i/mPNCGt)
+![enter入口页面.png](https://s2.ax1x.com/2019/08/14/mPdwzq.jpg)
 </br>
 
 * **总览分析**
 ***
 旅客数据流入方式及景区合理数据分析。
-![总览.png](https://imgchr.com/i/mPNmIs)
+![总览.png](https://s2.ax1x.com/2019/08/14/mPdOfA.png)
 </br>
 </br>
 </br>
 
 * **数据详情页**
 ***
-`旅客出入境、年龄/性别占比、区域流量热力图等多种数据展示方式`
+旅客出入境、年龄/性别占比、区域流量热力图等多种数据展示方式
 ![banner.gif](https://s2.ax1x.com/2019/08/13/mPNrLD.png)
 </br>
 </br>
 </br>
 
 * **三项热度排名**
----
+***
 通过三种热度排行榜，侧面展示西安旅客动向(数据来源高德平台)。
 ![nav.gif](https://s2.ax1x.com/2019/08/13/mPNzOU.png)
----
+</br>
+***
 
 ## 待完善功能
 
